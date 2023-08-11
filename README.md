@@ -1,4 +1,4 @@
-![logo](https://github.com/shubhamchavhan271/shubhamchavhan271/blob/main/Github%20Banner%20shubham.png)
+![logo](https://github.com/shubhamchavhan271/shubhamchavhan271/blob/main/Github%20Banner%20shubham.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Chavhan</h1>
 <h3 align="center">An individual with a strong passion for programming in Data Science, hailing from India.</h3>
 
